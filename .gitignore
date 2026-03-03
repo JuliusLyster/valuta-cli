@@ -1,0 +1,16 @@
+# Virtuelt miljø
+venv/
+env/
+.venv/
+
+# API nøgle — del ALDRIG denne fil offentligt!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS filer
+.DS_Store
+Thumbs.db
